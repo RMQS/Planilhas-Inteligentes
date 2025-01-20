@@ -19,20 +19,20 @@ Estudo e simulação de dashboard em planilha
 />
 </p>
 
-# Projeto Podcast Gerado por I.A.s
+# Projeto de criação de planilhas inteligentes
 
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluna na plataforma da [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um podcast com as facilidades das ferramentas de IA. todos os prompts
+Projeto com o objetivo de gerar uma planilha com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/RMQS/prompts-for-podcast-generate-by-ia/blob/main/output/DecorCast_%20Design%20de%20Apartamento%20Pr%C3%A1tico%20e%20Charmoso.mp3" title="View PDF now"> 📕Clique aqui para ouvir</a>
+<a href="https://github.com/RMQS/prompts-for-podcast-generate-by-ia/blob/main/output/DecorCast_%20Design%20de%20Apartamento%20Pr%C3%A1tico%20e%20Charmoso.mp3" title="View PDF now"> 📕Clique aqui para ver </a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [Microsoft Copilot](https://copilot.microsoft.com/)
-- [Google Notebook](https://notebooklm.google/)
+- [Excel]
 
 ## 🧠 Prompts
 
@@ -41,23 +41,20 @@ Microsoft Copilot：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um podcast com dicas práticas e inteligentes de decoração de interiores para um apartamento menor. Liste 5 variações de títulos                                                        |
-| conteúdo | Você é um roteirista de podcast e vamos criar um roteiro de um podcast de decoração de interiores focado em espaços práticos e charmosos. O público-alvo são casais de classe média com filhos que querem decorar um novo apartamento. O formato do roteiro deve ser leve e descontraído, com dicas práticas de decoração [Introdução], substitua por um por uma introdução igual as introduções dos podcasts do canal "Decor e Arte da Alvorada FM", [Curiosidade 1], aprenda a harmonizar os ambientes de casa com criatividade. [Curiosidade 2], dicas práticas, tendencias e inovações do setor de decoração de ambientes. [Finalização], substitua por uma despedida cool com um final. Eu sou a Rosana e esse foi o DecorQuest dessa semana. Use termos fáceis de explicação. O podcast deve ser apresentado somente para uma pessoa, no caso aqui chamada Rosana. O podcast deve ser curto. |
+|  título  | Informe dados relevantes na geração de uma planilha sobre financiamento habitacional no Nordeste                                                        |
+| conteúdo | O exemplo de planilha gerado foi copiado para Excel e trabalhado conforme orientações da aula. |
 
 
 
 ## ✨ Features
 
-- Título e conteúdo gerados via Microsoft Copilot
-- Audio do podcast gerado através do Google NotebookLM
+- Título e conteúdo gerados via Google Gemini
+- Planilha editada no Excel
 
 ## 📚 Materiais
 
-- audio gerado durante as aulas em `output`
+- planilha Excel `output`
 
-## 🛠️ Instruções de execução
-
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize Google Notebook para geração do audio.
 
 ## 👨‍💻 Expert
 
