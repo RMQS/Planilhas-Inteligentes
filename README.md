@@ -1,5 +1,5 @@
 # Planilhas-Inteligentes
-estudo e simulação de dashboard em planilha
+Estudo e simulação de dashboard em planilha
 <p align="center">
     <img width="100" src=".github/assets/banner.png">
 </p>
