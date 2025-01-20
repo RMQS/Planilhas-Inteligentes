@@ -24,10 +24,10 @@ Estudo e simulação de dashboard em planilha
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluna na plataforma da [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar uma planilha com as facilidades das ferramentas de IA. todos os prompts
+Projeto com o objetivo de gerar uma planilha com as facilidades das ferramentas de IA. Todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/RMQS/prompts-for-podcast-generate-by-ia/blob/main/output/DecorCast_%20Design%20de%20Apartamento%20Pr%C3%A1tico%20e%20Charmoso.mp3" title="View PDF now"> 📕Clique aqui para ver </a>
+<a href="https://github.com/RMQS/Planilhas-Inteligentes/blob/main/Simula%C3%A7%C3%A3o%20financiamento%20habitacional.xlsx" title="View Planilha now"> 📕Clique aqui para ver </a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
